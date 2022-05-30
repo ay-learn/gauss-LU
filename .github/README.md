@@ -1,2 +1,5 @@
-# makefile
-makefile for c files and unit test
+# resolution of system with gauss LU
+using 
+- langaue c
+- make file
+- test files
